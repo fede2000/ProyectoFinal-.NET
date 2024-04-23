@@ -6,7 +6,7 @@
     <Name>BlogDatabase</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{30561b57-f3ff-4186-a198-783a50622952}</ProjectGuid>
+    <ProjectGuid>{02554892-3197-4a8c-b3c5-4ddf424bb226}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
@@ -57,10 +57,7 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
-<<<<<<< HEAD
-=======
   <ItemGroup>
-    <Build Include="TablaPublicacion.sql" />
+    <Build Include="Publicacion.sql" />
   </ItemGroup>
->>>>>>> e44ee5c65982e238d4023e0fded1fd8fc861c138
 </Project>
