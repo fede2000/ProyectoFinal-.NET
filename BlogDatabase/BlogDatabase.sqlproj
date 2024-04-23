@@ -57,4 +57,10 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+<<<<<<< HEAD
+=======
+  <ItemGroup>
+    <Build Include="TablaPublicacion.sql" />
+  </ItemGroup>
+>>>>>>> e44ee5c65982e238d4023e0fded1fd8fc861c138
 </Project>
