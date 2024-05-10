@@ -17,9 +17,9 @@ namespace ProyectoFinal.Controllers
 
         public IActionResult Index()
         {
-            //var rule = new PublicacionRule(_configuration);
-            //var posts = rule.GetPostsHome();
-            return View();
+            var rule = new PublicacionRule(_configuration);
+            var posts = rule.GetPostsHome();
+            return View(posts);
         }
         public IActionResult Suerte()
         {
